@@ -2,7 +2,7 @@
 
 A simple, portable application that converts PDF files to DOCX format with a user-friendly GUI.
 
-![Application Screenshot](screenshots/app_screenshot.png)
+![PDF to DOCX Converter Screenshot](screenshots/app_screenshot.png)
 
 ## Features
 
