@@ -16,7 +16,7 @@ A simple, portable application that converts PDF files to DOCX format with a use
 
 ## Download
 
-You can download the latest version of the application from the [Releases](../../releases) section of this repository.
+You can download the latest WINDOWS version of the application from the [Releases](../../releases) section of this repository.
 
 ## How to Use
 
