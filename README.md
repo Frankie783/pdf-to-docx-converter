@@ -39,8 +39,8 @@ If you prefer to run the application from source:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPOSITORY].git
-   cd [YOUR_REPOSITORY]
+   git clone https://github.com/frankie783/pdf-to-docx-converter.git
+   cd [pdf-to-docx-converter]
    ```
 
 2. Create a virtual environment (optional but recommended):
