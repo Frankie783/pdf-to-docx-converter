@@ -1,0 +1,2 @@
+pdf2docx==0.5.6
+pyinstaller==6.12.0
