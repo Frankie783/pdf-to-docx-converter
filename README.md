@@ -11,7 +11,7 @@ A simple, portable application that converts PDF files to DOCX format with a use
 - **Convert Nested Folders**: Convert all PDF files in a folder and its subfolders
 - **Output Options**: Save to the same folder or specify a different output location
 - **Progress Tracking**: Real-time progress bar shows conversion status with file-by-file updates
-- **Simple Interface**: User-friendly GUI with straightforward controls
+- **Simple Interface**: *Not so* User-friendly GUI with straightforward controls
 - **Portable**: Single executable file that runs without installation
 
 ## Download
@@ -32,14 +32,6 @@ You can download the latest version of the application from the [Releases](../..
 7. Watch the progress bar to monitor the conversion process
 8. When finished, a success message will appear
 9. Click the red **EXIT** button to close the application when done
-
-## Screenshot Guide
-
-### Main Application Window
-![Main Window](screenshots/main_window.png)
-
-### Conversion Process
-![Conversion Process](screenshots/conversion_process.png)
 
 ## Running from Source
 
